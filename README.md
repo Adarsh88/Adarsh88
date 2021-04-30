@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as an Intern at TheOpenCode Foundation.
+- 🔭 I’m currently working as a Software Engineering Intern at TheOpenCode Foundation.
 - 🌱 I’m currently learning web development
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/adarsh-narayanan-44b31575/), [Instagram](https://www.instagram.com/the_amateur_guitarist/), [Facebook](https://www.facebook.com/AAApod/).
