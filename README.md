@@ -3,6 +3,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adarsh</h1>
 
 
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as a Software Engineering Intern at TheOpenCode Foundation.
@@ -10,6 +11,8 @@
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love playing the guitar 🎸.
+
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -54,9 +57,6 @@
 <br/>
 
 <a href="https://github.com/Adarsh88/github-readme-activity-graph"><img alt="Adarsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Adarsh88&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
