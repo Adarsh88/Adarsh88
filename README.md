@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as a Software Engineering Intern at TheOpenCode Foundation.
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love playing the guitar 🎸.
