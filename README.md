@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working as an Intern at TheOpenCode Foundation.
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning vue.js.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I love playing the guitar 🎸.
