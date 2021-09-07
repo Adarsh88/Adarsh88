@@ -57,7 +57,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/adarsh-narayanan-44b31575/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/the_amateur_guitarist/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/the_.guitarist._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/AAApod/"> <img src="https://img.icons8.com/fluent/100/000000/facebook-new.png" width="45" height="45"/></a>
 
 </p>
