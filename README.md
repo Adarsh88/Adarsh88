@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![dino](https://user-images.githubusercontent.com/44509204/143417860-22d22291-ad13-4342-861a-0f4001ac7bb3.gif)
+
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Adarsh</h1>
 
