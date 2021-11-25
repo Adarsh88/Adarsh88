@@ -3,6 +3,7 @@
 
 
 ## 🙋‍♂️ About Me
+- 👋 Hey there, I'm Adarsh Narayanan 😎.
 - 🌱 I’m currently learning vue.js.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His.
