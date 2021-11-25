@@ -1,6 +1,3 @@
-![dino](https://user-images.githubusercontent.com/44509204/143417860-22d22291-ad13-4342-861a-0f4001ac7bb3.gif)
-
-
 <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 
