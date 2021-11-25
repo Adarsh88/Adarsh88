@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning vue.js.
 - 💬 Ask me about any tech related stuff.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love playing the guitar 🎸. Check out my covers over <a href = "https://www.instagram.com/the_.guitarist._/">here</a> !
+- ⚡ Fun fact: I love playing the guitar 🎸. Check out my covers over <a href = "https://www.instagram.com/the_.guitarist._/">here</a>  👈
 
 <br/>
 
