@@ -22,7 +22,6 @@
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-    <code><img height="40" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code>
     <code><img height="40" src="https://img.icons8.com/plasticine/100/000000/figma.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
@@ -50,8 +49,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/adarsh-narayanan" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/the_.guitarist._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/AAApod/"> <img src="https://img.icons8.com/fluent/100/000000/facebook-new.png" width="45" height="45"/></a>
 
 </p>
 
