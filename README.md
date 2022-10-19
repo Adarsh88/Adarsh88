@@ -3,11 +3,11 @@
 
 
 ## 🙋‍♂️ About Me
-- 👋 Hey there, I'm Adarsh Narayanan 😎🤘.
-- 🌱 I’m currently mastering to build frontend of websites using React.
-- 💬 Ask me about any tech related stuff.
-089256- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I love playing the guitar 🎸. 
+- 👋 Hey there, I'm Adarsh Narayanan 😎🤘
+- 🌱 I’m currently mastering to build frontend of websites using React
+- 💬 Ask me about any tech related stuff 😄 
+- Pronouns: He/His
+- ⚡ Fun fact: I love playing the guitar 🎸
 <br/>
 
 ## 🚀 Languages and Tools:
